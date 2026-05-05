@@ -27,11 +27,11 @@ Data Science · Machine Learning · Deep Learning
 
 ---
 
-**💱 Currency_Converter_Application**
+**💱 Currency_Converter_Application-**
 > Live currency converter using a REST API. My first frontend project with real-time API integration.
 > `HTML` `CSS` `JavaScript` `REST API`
 
-[![Currency Converter_Application](https://github-readme-stats.vercel.app/api/pin/?username=Kakul22&repo=Currency-Converter&theme=tokyonight&hide_border=true)](https://github.com/Kakul22/Currency-Converter)
+[![Currency_Converter_Application-](https://github-readme-stats.vercel.app/api/pin/?username=Kakul22&repo=Currency-Converter&theme=tokyonight&hide_border=true)](https://github.com/Kakul22/Currency-Converter)
 
 ---
 
