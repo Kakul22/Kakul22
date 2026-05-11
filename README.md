@@ -12,14 +12,14 @@
 
 ---
 
-### 🌱 Currently learning
+### 🌱  Currently learning
 Data Science · Machine Learning · Deep Learning
 
 ---
 
 ### 🛠️ Projects I have built
 
-**🌿 PlantGuard AI — Plant Disease Detection**
+**🌿 PlantGuard AI — Plant Disease Detection and Recommendation System**
 > Plant disease detection using a custom CNN model. Upload a leaf photo and get disease name, confidence score, and treatment recommendation. Trained on PlantVillage dataset — ~96% accuracy across 15 classes.
 > `Python` `TensorFlow` `Flask` `Streamlit` `OpenCV` `Grad-CAM`
 
