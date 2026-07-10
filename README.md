@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hi,%20I'm%20Kakul%20Mittal%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Learning+Data+Science+%F0%9F%8C%B1;Building+ML+%2F+AI+projects;Turning+Coffee+into+Code+%E2%98%95;PlantGuard+AI+Creator+%F0%9F%8C%BF" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Learning+Data+Science+%F0%9F%8C%B1;Building+ML+%2F+AI+projects;Sharpening+my+skills+every+day+%F0%9F%92%AA" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ### 🌱 About Me
 
 - 🔭 Currently learning **Data Science · Machine Learning · Deep Learning**
-- 🚧 Working on: improving my ML projects & exploring deployment strategies
+- 🚧 Working on: sharpening my skills and growing as a Data Scientist
 - 🤝 Open to collaborate on: Data Science / ML projects
 - 💬 Ask me about: CNNs, Grad-CAM, or anything plant-disease-detection related 🌿
 - 📫 Reach me: **kakulmittal2006@gmail.com**
