@@ -1,37 +1,50 @@
-## Hi there 👋
 <h1 align="center">Hi, I'm Kakul Mittal 👋</h1>
-
 
 <p align="center">
   Learning Data Science & building projects along the way 🌱
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kakul22&color=brightgreen&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Kakul22&color=brightgreen&style=flat" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🌱  Currently learning
+### 🌱 Currently learning
 Data Science · Machine Learning · Deep Learning
+
+### 🔭 Currently working on
+Improving my ML projects and exploring new deployment strategies
+
+### 👯 Looking to collaborate on
+Data Science / ML projects — feel free to reach out!
 
 ---
 
-### 🛠️ Projects I have built
+### 🛠️ Projects I've built
 
-**🌿 PlantGuard AI — Plant Disease Detection and Recommendation System**
-> Plant disease detection using a custom CNN model. Upload a leaf photo and get disease name, confidence score, and treatment recommendation. Trained on PlantVillage dataset — ~96% accuracy across 15 classes.
+**🌿 PlantGuard AI — Plant Disease Detection & Recommendation System**
+> Plant disease detection using a custom CNN model. Upload a leaf photo and get the disease name, confidence score, and treatment recommendation. Trained on the PlantVillage dataset — ~96% accuracy across 15 classes.
+>
 > `Python` `TensorFlow` `Flask` `Streamlit` `OpenCV` `Grad-CAM`
 
 [![PlantGuard AI](https://github-readme-stats.vercel.app/api/pin/?username=Kakul22&repo=PlantGuard-AI&theme=tokyonight&hide_border=true)](https://github.com/Kakul22/PlantGuard-AI)
 
----
-
-**💱 Currency_Converter_Application-**
+**💱 Currency Converter Application**
 > Live currency converter using a REST API. My first frontend project with real-time API integration.
+>
 > `HTML` `CSS` `JavaScript` `REST API`
 
-[![Currency_Converter_Application-](https://github-readme-stats.vercel.app/api/pin/?username=Kakul22&repo=Currency_Converter_Application-&theme=tokyonight&hide_border=true)](https://github.com/Kakul22/Currency_Converter_Application-)
+[![Currency Converter](https://github-readme-stats.vercel.app/api/pin/?username=Kakul22&repo=Currency_Converter_Application-&theme=tokyonight&hide_border=true)](https://github.com/Kakul22/Currency_Converter_Application-)
 
 ---
 
@@ -48,7 +61,7 @@ Data Science · Machine Learning · Deep Learning
 
 ---
 
-### 💻 Tech I have used so far
+### 💻 Tech I've used so far
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -60,24 +73,8 @@ Data Science · Machine Learning · Deep Learning
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-
 ---
 
 <p align="center">
   <i>Still learning · Still building 🚀</i>
 </p>
-
-<!--
-**Kakul22/Kakul22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
