@@ -1,32 +1,34 @@
-<h1 align="center">Hi, I'm Kakul Mittal 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hi,%20I'm%20Kakul%20Mittal%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <p align="center">
-  Learning Data Science & building projects along the way 🌱
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Learning+Data+Science+%F0%9F%8C%B1;Building+ML+%2F+AI+projects;Turning+Coffee+into+Code+%E2%98%95;PlantGuard+AI+Creator+%F0%9F%8C%BF" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kakul22&color=brightgreen&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Kakul22&color=6366F1&style=for-the-badge" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/kakul-mittal-55065427b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/Kakul22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:kakulmittal2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🌱 Currently learning
-Data Science · Machine Learning · Deep Learning
+### 🌱 About Me
 
-### 🔭 Currently working on
-Improving my ML projects and exploring new deployment strategies
-
-### 👯 Looking to collaborate on
-Data Science / ML projects — feel free to reach out!
+- 🔭 Currently learning **Data Science · Machine Learning · Deep Learning**
+- 🚧 Working on: improving my ML projects & exploring deployment strategies
+- 🤝 Open to collaborate on: Data Science / ML projects
+- 💬 Ask me about: CNNs, Grad-CAM, or anything plant-disease-detection related 🌿
+- 📫 Reach me: **kakulmittal2006@gmail.com**
 
 ---
 
@@ -78,3 +80,5 @@ Data Science / ML projects — feel free to reach out!
 <p align="center">
   <i>Still learning · Still building 🚀</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
